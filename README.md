@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://github.com/mhtawfik/mhtawfik/blob/main/assets/banner.jpg?raw=true"
+    src="https://github.com/mhtawfik/mhtawfik/blob/main/assets/github-banner.png?raw=true"
     alt="M H Tawfik — Full-Stack Developer and Founder of SoftWebGrove"
     width="100%"
   />
